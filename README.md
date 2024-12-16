@@ -28,7 +28,7 @@ Simulations were conducted using:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd drone-path-navigation
+   cd python
    ```
 3. Install Python dependencies:
    ```bash
