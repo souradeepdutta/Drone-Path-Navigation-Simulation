@@ -80,5 +80,17 @@ Simulations were conducted using:
 ### Manhattan, USA
 ![Manhattan Bellman-Ford Path](images/Manhatten_1_Bellman.png)
 
+## Architecture Diagrams
+
+![A* Architecture](images/Architecture-astar.png)
+
+![Bellman Ford Architecture](images/Architecture-bellman.png)
+
+## Matlab Simulations
+
+![A*](images/astar.png)
+
+![Bellman Ford](images/bellman.png)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
